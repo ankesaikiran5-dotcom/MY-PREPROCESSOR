@@ -44,6 +44,7 @@ This module demonstrates the replacement of function-like macros with their expa
 3. Generate the processed output.
 4. Save the result in an ".i" file.
 5. Compile the generated output using GCC to test it.
+6. The user selects the required preprocessing operation through the menu-driven main program.
 
 6. Compilation and Execution
 
