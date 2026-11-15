@@ -9,7 +9,9 @@ Functionalities
 1. Comment Removal: Removes comments from C source code.
 2. File Inclusion: Handles header file inclusion.
 3. Macro Substitution: Replaces object-like macros.
-4. Function-like Macro Substitution: Processes function-like macros.
+4. Function-like Macro Substitution:Processes function-like macros.
+5. The project provides a menu-driven main program that allows users to select and execute each preprocessing module.
+   on-like Macro Substitution: Processes function-like macros.
 
 Technologies Used
 
