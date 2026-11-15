@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-int main()
+int substitute_function_macro()
 {
     char macro[200];//stores macro definition
     char name[50];//stores macro name

@@ -2,7 +2,7 @@
 #include <string.h>//it provides string handling functions
 #include <ctype.h>//it provides character handling functions
 
-int main()
+int substitute_macros()
 {
     FILE *fp, *fout;
 

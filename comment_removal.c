@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int remove_comments()
 {
     FILE *fp, *out;//fp is the pointer for input file , out is the pointer for output file
     int ch, next;//ch stores current character and next stores next character
